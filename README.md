@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dhruv2676
 - 👀 I’m interested in Making Computer Do My Work!
-- 🌱 I’m currently learning - Machine Learning And Artificial Intelligence, Also Learning Dart.
+- 🌱 I’m currently learning - Machine Learning And Artificial Intelligence, Also Learning Dart/Flutter.
 - 💞️ I’m looking to collaborate on Anything...
 - 📫 How to reach me - You Can Mail Me @generalruv@gmail.com After Which I Can Tell You Any Other Easy Way To Contact Me.
 
